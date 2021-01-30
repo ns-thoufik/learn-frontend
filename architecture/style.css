@@ -1,0 +1,56 @@
+.header {
+    overflow: hidden;
+}
+.building {
+    float: left;
+    margin: 0 0 0px 70px;
+    padding: 25px;
+}
+.building h1 {
+    margin: 0px;
+}
+.building h4 {
+    margin: 0px;
+}
+.work {
+    float: right;
+    padding: 30px;
+    vertical-align: middle;
+    margin: 0 140px 0 0;
+}
+ul {
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+li {
+    display: inline-block;
+}
+.work button {
+    padding: 5px;
+    background-color: white;
+}
+.folder {
+    text-align: center;
+    background-image: url(./architecture.png);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+    margin: 0px;
+    padding-top: 200px;
+    color: cornsilk;
+}
+.business {
+    background-color: rgba(0,0,0,0.4);
+    display: inline-block;
+    padding: 30px;
+}
+.folder h1 {
+    font-size: 70px;
+}
+.folder h4 {
+    font-size: 30px;
+}
+.business button {
+    padding: 6px;
+}

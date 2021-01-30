@@ -1,0 +1,83 @@
+/* Dropdown */
+.down {
+    text-align: left;
+}
+.down a {
+    text-decoration: none;
+}
+.down ul {
+    list-style-type: none;
+    border-style: ridge;
+    border-color: black;
+    border-width: 1px;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 6px;
+}
+.dropdownmenu ol {
+    background-color: whitesmoke;
+    letter-spacing: 1px;
+}
+
+/* Breadcrumb */
+.breadcrumb a {
+    text-decoration: none;
+}
+.breadcrumb li {
+    padding: 8px; 
+    letter-spacing: 1px;
+}
+
+/* Pagination */
+.pagination li {
+    list-style-type: none;
+    border-style: ridge;
+    border-color: black;
+    border-width: 1px;
+    display: inline-block;
+    padding: 9px;
+}
+.pagination a {
+    text-decoration: none;
+}
+.pagination .first  {
+    border-radius: 8px 0 0 8px;
+}
+.pagination .last {
+    border-radius: 0 8px 8px 0;
+}
+
+/* Alert */
+.alert {
+    border: 1px solid #666;
+}
+.alert-success {
+    background: rgb(219, 250, 219);
+    border-color: rgb(80, 236, 80);
+    color: green;
+}
+.alert-danger {
+    background: rgb(250, 219, 219);
+    border-color: rgb(236, 80, 80);
+    color: red;
+}
+.alert-space {
+    background: rgb(182, 225, 245);
+    border-color: rgb(133, 196, 248);
+    color: rgb(0, 102, 255);
+}
+.alert-color {
+    background:  rgb(240, 177, 229);
+    border-color:  rgb(253, 137, 234);
+    color: rgb(255, 0, 212);
+}
+.alert-property {
+    background:  rgb(245, 245, 179);
+    border-color:  rgb(233, 233, 110);
+    color: yellow;
+}
+.alert-link {
+    background: rgb(208, 245, 170);;
+    border-color: rgb(176, 240, 112);;
+    color: rgb(127, 247, 7);
+}

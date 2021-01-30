@@ -1,0 +1,152 @@
+.inner {
+    width: 1100px;
+    margin: 0 auto;
+}
+body {
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+.header {
+    background-image: url(../ZOYA/yoga.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 785px;
+}
+.image {
+    margin-left: 447px;
+    padding-top: 72px;
+    width: 230px;
+}
+.companyname {
+    text-align: center;
+    margin: 0;
+}
+.companyname h2 {
+    font-size: 80px;
+    padding-top: 220px;
+    color: white;
+    margin: 0;
+}
+.content h4 {
+    font-size: 30px;
+    padding-top: 0px;
+    text-align: center;
+    color: white;
+    margin: 0;
+} 
+ul {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 17px;
+    margin: 0;
+}
+li {
+    display: inline-block;
+    margin: 5px;
+    margin-right: 23px;
+    color: white;
+    margin: 0;
+}
+.paragraphbar {
+    margin: 75px;
+}
+.panel h2 {
+    text-align: center;
+    padding-top: 16px;
+    font-size: 75px;
+    margin: 60px;
+}
+.yogarapper {
+    text-align: center;
+}
+.paragraph {
+    display: inline-block;
+    text-align: center;
+    margin: 7px;
+    padding-top: 0;
+}
+.menubar1 .balance {
+    width: 50px;
+}
+.menubar1 h4 {
+    font-size: 26px;
+    margin: 0;
+} 
+.menubar1 p {
+    width: 350px;
+}
+.menubar2 .leaf {
+    width: 50px;
+}
+.menubar2 h4 {
+    font-size: 26px;
+    margin: 0;
+} 
+.menubar2 p {
+    width: 350px;
+}
+.menubar3 .spoon {
+    width: 50px;
+}
+.menubar3 h4 {
+    font-size: 26px;
+    margin: 0;
+} 
+.menubar3 p {
+    width: 350px;
+}
+.flying {
+    background-image: url(./flying.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 5%;
+}
+.flyingcontent {
+    font-size: 30px;
+    color: white;
+}
+.flyingcontent h2 {
+    margin: 0;
+}
+.flyingpara {
+    width: 570px;
+    color: white;
+}
+.flyingpara p {
+    float: right;
+}
+.navbutton {
+    border-radius: 4px;
+    background: over;
+    color: #84B9DB;
+    background-color: white;
+    padding: 12px;
+    border: 0;
+    font-size: 13px;
+    margin-top: 30px;
+}
+.yoga {
+    margin: 0;
+}
+.yogaimage {
+    border-radius: 50%;
+    margin-top: 52px;
+    margin-left: 19px;
+}
+.yogapara {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+    margin-top: 67px;
+}
+.yogapara h2 {
+    font-size: 67px;
+    margin: 0;
+}
+.yogapara p {
+    width: 570px;
+    margin-top: 36px;
+    font-size: 14px;
+}

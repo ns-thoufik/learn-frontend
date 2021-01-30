@@ -1,0 +1,150 @@
+.inner {
+    width: 1200px;
+    margin: 0 auto;
+}
+body {
+    font-family: 'copperplate',fantasy;
+    margin: 0;
+}
+.clearfix::before, .clearfix::after {
+    display: table;
+    content: "";
+    clear: both;
+}
+.header {
+    padding: 20px;
+    border-bottom: 5px solid #DEEAE6;
+}
+.logo {
+    width: 350px;
+    float: left;
+}
+.image {
+    width: 60px;
+    margin: 5px;
+}
+.header h1 {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    color: #9EC6C7;
+    font-size: 50px;
+}
+.nav {
+    float: right;
+    margin: o;
+    padding: 8px;
+}
+.nav .active {
+    color: #9EC6C7;
+}
+li {
+    display: inline-block;
+    padding: 8px;
+    font-size: 20px;
+    color:  #D3D3D3;
+}
+.info {
+    padding-top: 80px;
+}
+.clearfix {
+    padding: 0;
+}
+.info-touch {
+    float: left;
+    padding-top: 70px;
+    padding-bottom: 40px;
+
+}
+.info h5{
+    font-family: 'lucida handwriting', cursive;
+    color: #9EC6C7;
+}
+.info .menu {
+    color: #B3D2D2;
+    font-size: 20px;
+    margin: 0;
+}
+.info .menubar {
+    color: #487DA9;
+    font-size: 50px;
+    margin: 0;
+}
+.info .world {
+    color: #487DA9;
+    font-size: 40px;
+    margin: 0;
+}
+.info .about {
+    color: #D3D3D3;
+    font-size: 20px;
+    font-family: arial;
+    margin: 0;
+}
+.info .about2 {
+    color: #D3D3D3;
+    font-size: 20px;
+    font-family: arial;
+    margin: 0;
+}
+.panel {
+    float: right;
+}
+.nav-button {
+    border-radius: 25px;
+    background: over;
+    color: white;
+    background-color: #9EC6C7;
+    padding: 12px;
+    border: 0;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.button {
+    border-radius: 25px;
+    padding: 12px;
+    border: 0;
+    color: #9EC6C7;
+    font-size: 20px;
+    border: 2px solid #9EC6C7;
+    margin-top: 30px;
+}
+.image2 {
+    padding: 0px;
+    width: 590px; 
+    display: inline-block;
+}
+.info-tech {
+    text-align: center;
+    font-family: arial;
+    background-color: #3477AC;
+    color: white;
+}
+.files {
+    display: inline-block;
+    padding: 30px;
+}  
+.innermenu {
+    width: 80px;
+}
+.stethoscope {
+    display: inline-block;
+    padding: 30px;
+}
+.outermenu {
+    width: 80px;
+}
+.sound {
+    display: inline-block;
+    padding: 30px;
+}
+.soundlogo {
+    width: 80px;
+}
+.ourexperts {
+    display: inline-block;
+    padding: 30px;
+}
+.expertslogo {
+    width: 80px;
+} 

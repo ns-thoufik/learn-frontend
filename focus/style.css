@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+}
+.header {
+    background-image: url(../focus/focus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    height: 800px;
+    font-family: arial;
+}
+.header .tech {
+    padding: 58px 123px;
+}
+.image {
+    width: 180px;
+} 
+ul {
+    list-style-type: none;
+    margin: 74px 0 0;
+}
+li {
+    padding: 10px;
+    margin-left: 100px;
+    font-family: fantasy;
+    font-size: 25px;
+}
+.photo {
+    padding: 30px;
+}
+.folder {
+    margin: -79px;
+}
+.folder .middle {
+    text-align: center;
+    color: #FEFBFD;
+    font-size: 73px;
+    font-family: fantasy;
+}
+h3 {
+    margin: 0px;
+}
+h4 {
+    text-align: center;
+    color: #B19194;
+    font-size: 32px;
+    margin: -3px;
+}
+.wood {
+    background-color: black;
+}
+.checkit {
+    display: flex;
+    width: 1101px;
+    margin-left: 292px;
+}
+.panel p {
+    width: 290px;
+    font-size: 32px;
+    color: #B89F32;
+    padding-top: 72px;
+    margin-left: -127px;
+}
+.mine h5 {
+    width: 364px;
+    font-size: 19px;
+    color: white;
+    padding-top: -15px;
+    margin-left: -125px;
+}
+.picture .Business {
+    width: 369px;
+    display: block;
+    margin-left: 66px;
+    margin-right: auto;
+    color: white;
+    padding-top: 50px;
+}
+.panal2 h5 {
+    width: 352px;
+    font-size: 20px;
+    float: right;
+    padding-top: 471px;
+    color: white;
+    margin-left: 70px;
+}
+
+.icon {
+    margin-left: 1px;
+    background-color: yellow;
+}
+.last img {
+    display: inline-block;
+    width: 110px;
+    margin-left: 90px;
+    padding: 22px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 15px;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+}
+.grid-item {
+    padding: 25px;
+    font-size: 30px;
+    text-align: center;
+}
+.media img {
+    width: 380px;
+    height: 265px;
+    padding: 38px;
+}
+
+  

@@ -1,0 +1,67 @@
+.header {
+    margin: 0 170px 0 100px;
+    font-family: arial;
+}
+.span h1 {
+    color: blue;
+}
+.work {
+    float: right;
+    margin: -93px;
+}
+li {
+    display: inline-block;
+    padding: 25px;
+}
+.folder {
+    text-align: center;
+    padding: 300px;
+    background-image: url(../simple/bridge.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: arial;
+}
+.info-touch {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    padding: 30px;
+}
+.navbar {
+    padding: 8px;
+    margin: 8px;
+    background-color: rgb(0, 119, 255);
+    border: none;
+    color:white;
+} 
+.head {
+    text-align: center;
+    font-family: arial;
+}
+.info {
+    text-align: center;
+    font-family: arial;
+}
+.thoufik {
+    display: inline-block;
+    padding: 30px;
+}  
+.image {
+    width: 130px;
+    border-radius: 130px;
+}
+.money {
+    display: inline-block;
+    padding: 30px;
+}
+.car {
+    width: 130px;
+    border-radius: 130px;
+}
+.tea {
+    display: inline-block;
+    padding: 15spx;
+}
+.game {
+    width: 170px;
+    border-radius: 130px;
+}
