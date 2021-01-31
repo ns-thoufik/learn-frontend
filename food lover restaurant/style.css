@@ -48,7 +48,7 @@ body {
     color: #FFBA00;
 }
 .lover {
-    display: inline-block;
+    display: block;
     margin-left: 224px;
     margin-top: 43px;
     height: 89px;
@@ -96,7 +96,7 @@ body {
     color: white;
     font-size: 28px;
     width: 620px;
-    display: inline-block;
+    display: block;
     float: right;
     margin-top: 20px;
     margin-bottom: 0;
@@ -123,11 +123,11 @@ body {
     width: 710px;
     height: 708px;
     float: left;
-    display: inline-block;
+    display: block;
 }
 .panel h4 {    
     float: right;
-    display: inline-block;
+    display: block;
     margin-top: 264px;
     margin-right: 467px;
     font-size: 51px;
@@ -135,7 +135,7 @@ body {
     color: white;
 }
 .panel p {
-    display: inline-block;
+    display: block;
     float: right;
     width: 563px;
     font-size: 34px;
@@ -155,13 +155,13 @@ body {
 }
 .piz {
     float: right;
-    display: inline-block;
+    display: block;
     width: 474px;
     margin-top: 16px;
 }
 .panel2 h3 {
     float: left;
-    display: inline-block;
+    display: block;
     margin-top: 556px;
     margin-left: 217px;
     color: white;
@@ -169,7 +169,7 @@ body {
     margin-bottom: 0;
 }
 .panel2 p {
-    display: inline-block;
+    display: block;
     float: left;
     width: 563px;
     font-size: 34px;
@@ -182,12 +182,12 @@ body {
 .egg-piza {
     float: right;
     width: 906px;
-    display: inline-block;
+    display: block;
     margin-top: 10px;
 }
 .piz2 {
     float: left;
-    display: inline-block;
+    display: block;
     margin-top: 313px;
     width: 565px;
 }
